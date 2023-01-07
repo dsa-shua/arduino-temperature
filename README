@@ -1,0 +1,4 @@
+# arduino-temperature
+Simple Arduino temperature measuring project with LCD display
+
+This simple Arduino project uses and arduino uno as the main board, DHT-11 as the temperature sensor, and a standard 16x2 LCD display.
